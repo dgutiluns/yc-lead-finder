@@ -1,0 +1,51 @@
+company_name,website,team_size,fit_score,tech_stack,blog_url,location,priority_score
+Roboflow,https://roboflow.com,40.0,5,"['Webflow', 'Next.js']",https://roboflow.com/blog,San Francisco,8
+Taskade,https://www.taskade.com,14.0,4,"['Webflow', 'Framer', 'WordPress', 'Next.js', 'React']",https://www.taskade.com/blog,San Francisco,8
+DraftWise,https://www.draftwise.com/,28.0,3,['Webflow'],https://www.draftwise.com/blog,New York,6
+SwiftSku,https://swiftsku.com,35.0,3,['Webflow'],https://swiftsku.com/blog,San Francisco,6
+DailyBot,https://www.dailybot.com/,12.0,4,['Webflow'],https://www.dailybot.com/blog,"Pereira, Colombia",6
+Truewind,https://www.truewind.ai/,12.0,4,"['Framer', 'Vue']",https://www.truewind.ai/blog,San Francisco,6
+Tenyks,http://tenyks.ai/,14.0,4,['Webflow'],http://tenyks.ai/blog,"Cambridge, United Kingdom",6
+Theneo,https://theneo.io,15.0,4,['Webflow'],https://theneo.io/blog,San Francisco,6
+Freshpaint,https://freshpaint.io,45.0,3,['Webflow'],https://freshpaint.io/blog,San Francisco,6
+Deed,https://www.joindeed.com,40.0,3,['Webflow'],https://www.joindeed.com/blog,New York,6
+Writesonic,https://writesonic.com/,30.0,4,"['Webflow', 'WordPress']",https://writesonic.com/blog,San Francisco,6
+NewsCatcher,https://newscatcherapi.com/,18.0,4,['Webflow'],https://newscatcherapi.com/blog,"Kyiv, Ukraine",6
+Typewise,https://typewise.app,12.0,5,['Webflow'],https://typewise.app/blog,"Zürich, Switzerland",6
+Curacel,https://curacel.co,30.0,3,['Webflow'],https://curacel.co/blog,"Lagos, Nigeria",6
+Waterplan,http://waterplan.com,30.0,3,['Framer'],http://waterplan.com/blog,San Francisco,6
+Cinapse,https://cinapse.io,10.0,5,['Webflow'],https://cinapse.io/blog,"Los Angeles, CA",6
+Unify,https://unify.ai,10.0,5,['Webflow'],https://unify.ai/blog,"London, United Kingdom",6
+Tailor,https://www.tailor.tech/,16.0,5,"['Framer', 'Shopify']",https://www.tailor.tech/blog,"Tokyo, Japan",6
+Mindee,https://mindee.com,60.0,3,['Webflow'],https://mindee.com/blog,"Paris, France",5
+DimOrder,https://dimorder.com,70.0,3,"['Framer', 'WordPress']",https://dimorder.com/blog,"Hong Kong, Hong Kong",5
+Rosebud AI,http://rosebud.ai,10.0,4,['React'],http://rosebud.ai/blog,San Francisco,5
+Abstra,https://abstra.io,10.0,4,['React'],https://abstra.io/articles,"Rio de Janeiro, Brazil",5
+DeepSource,https://deepsource.com/,11.0,4,"['React', 'Vue']",https://deepsource.com/blog,San Francisco,5
+NanoNets,https://nanonets.com,55.0,4,['Webflow'],https://nanonets.com/blog,San Francisco,5
+Okteto,https://okteto.com,30.0,3,['React'],https://okteto.com/blog,San Francisco,5
+Anima App,https://www.animaapp.com,35.0,3,"['React', 'Vue']",https://www.animaapp.com/blog,New York,5
+Regology,http://regology.com,54.0,3,['Webflow'],http://regology.com/blog,Palo Alto,5
+MobileBoost,https://www.mobileboost.io/gptdriver,15.0,4,"['WordPress', 'React', 'Angular']",https://www.mobileboost.io/blog,San Francisco,5
+Volley,https://volleythat.com,75.0,3,['Webflow'],https://volleythat.com/blog,San Francisco,5
+Cortex,https://cortex.io/,50.0,3,['React'],https://cortex.io/blog,San Francisco,5
+MarqVision,https://www.marqvision.com/,90.0,3,['Webflow'],https://www.marqvision.com/blog,"Los Angeles, CA",5
+MixerBox,http://mixerbox.com,70.0,3,['React'],http://mixerbox.com/blog,Palo Alto,4
+Duffel,https://duffel.com/,70.0,3,['React'],https://duffel.com/blog,"London, United Kingdom",4
+Encord,https://encord.com,60.0,5,"['React', 'Vue']",https://encord.com/blog,"London, United Kingdom",4
+Verihubs,https://verihubs.com,90.0,3,"['React', 'Vue']",https://verihubs.com/blog,"Jakarta, Indonesia",4
+JustPaid.io,https://www.justpaid.io,10.0,4,['Webflow'],,Mountain View,4
+Aquarium Learning,https://www.aquariumlearning.com/,12.0,4,['Webflow'],,San Francisco,4
+Convictional,https://convictional.com,25.0,4,['Webflow'],,"Toronto, Canada",4
+Middleware,https://www.middleware.io,40.0,3,[],https://www.middleware.io/blog,San Francisco,3
+Pibit.ai,https://pibit.ai,30.0,4,[],sitemap_blog,Palo Alto,3
+Peoplebox,https://www.peoplebox.ai,35.0,4,['WordPress'],https://www.peoplebox.ai/blog,San Francisco,3
+Humanloop,https://humanloop.com,10.0,5,[],https://humanloop.com/blog,"London, United Kingdom",3
+Bobidi,http://www.bobidi.com,15.0,5,['React'],,"Los Gatos, CA",3
+"Veryfi, Inc.",https://www.veryfi.com/,60.0,4,['WordPress'],https://www.veryfi.com/blog,"San Mateo, CA",2
+Photoroom,https://photoroom.com/,60.0,4,"['Shopify', 'Vue']",https://photoroom.com/blog,"Paris, France",2
+Dataherald,http://dataherald.com/,10.0,4,['Error: HTTPConnectionPool(h'],,"Los Angeles, CA",1
+Tara AI,http://www.tara.ai,13.0,4,['Error: Exceeded 30 redirect'],,"San Jose, CA",1
+Skyways,http://skyways.com,23.0,4,[],,"Austin, TX",1
+Mystic,https://www.mystic.ai/,11.0,4,['Error: HTTPSConnectionPool('],,"London, United Kingdom",1
+Rootly,https://rootly.com,52.0,3,[],,San Francisco,0

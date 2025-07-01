@@ -1,0 +1,31 @@
+company_name,website,batch,team_size,location,fit_score,tags_parsed,short_description
+Encord,https://encord.com,W21,60.0,"London, United Kingdom",5,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'ai']","All the tools you need to build better vision models, faster"
+Roboflow,https://roboflow.com,S20,40.0,San Francisco,5,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'api']",🖼️ Give your software the sense of sight.
+Tailor,https://www.tailor.tech/,S22,16.0,"Tokyo, Japan",5,"['developer-tools', 'saas', 'b2b', 'api', 'enterprise']",Highly Customizable Headless ERP
+Bobidi,http://www.bobidi.com,W22,15.0,"Los Gatos, CA",5,"['aiops', 'generative-ai', 'machine-learning', 'nlp', 'ai']",Bug bounty as a Service for AI
+Typewise,https://typewise.app,S22,12.0,"Zürich, Switzerland",5,"['machine-learning', 'b2b', 'productivity', 'api', 'ai']",Boosting customer service and sales productivity by 2-3x.
+Unify,https://unify.ai,W23,10.0,"London, United Kingdom",5,"['artificial-intelligence', 'generative-ai', 'saas', 'api', 'ai']",Route Your Prompt to the Best LLM ✨
+Cinapse,https://cinapse.io,W22,10.0,"Los Angeles, CA",5,"['saas', 'b2b', 'entertainment', 'productivity', 'enterprise']",The Operating System of Hollywood
+Humanloop,https://humanloop.com,S20,10.0,"London, United Kingdom",5,"['generative-ai', 'machine-learning', 'saas', 'nlp', 'ai']",The developer platform for LLM applications
+Photoroom,https://photoroom.com/,S20,60.0,"Paris, France",4,"['artificial-intelligence', 'generative-ai', 'computer-vision', 'design-tools', 'api']",Power commerce photography with generative AI
+"Veryfi, Inc.",https://www.veryfi.com/,W17,60.0,"San Mateo, CA",4,"['artificial-intelligence', 'machine-learning', 'computer-vision', 'api']",APIs to Liberate Trapped Data in Unstructured Documents
+NanoNets,https://nanonets.com,W17,55.0,San Francisco,4,"['artificial-intelligence', 'developer-tools', 'saas', 'b2b']",Automatic Data Extraction
+Peoplebox,https://www.peoplebox.ai,S22,35.0,San Francisco,4,"['saas', 'b2b', 'productivity', 'hr-tech', 'enterprise']","OKR, Performance and Engagement tool integrated with your worktools"
+Writesonic,https://writesonic.com/,S21,30.0,San Francisco,4,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b']",AI-powered content creation - #1 AI tool for Writing Blogs in seconds
+Pibit.ai,https://pibit.ai,W21,30.0,Palo Alto,4,"['generative-ai', 'machine-learning', 'saas', 'b2b', 'insurance']",Transforming Commercial P&C Industry with LLM-Powered Document AI
+Convictional,https://convictional.com,W19,25.0,"Toronto, Canada",4,"['saas', 'b2b', 'retail', 'enterprise']",Onboard and integrate suppliers for dropship and marketplace
+Skyways,http://skyways.com,S17,23.0,"Austin, TX",4,"['air-taxis', 'computer-vision', 'ai', 'ml']",Creating a new form of air transportation.
+NewsCatcher,https://newscatcherapi.com/,S22,18.0,"Kyiv, Ukraine",4,"['saas', 'enterprise', 'big-data', 'enterprise-software', 'ai']",News API for risk and data teams
+Theneo,https://theneo.io,W22,15.0,San Francisco,4,"['artificial-intelligence', 'developer-tools', 'api', 'ai']",Stripe-like API Docs in just a few clicks
+MobileBoost,https://www.mobileboost.io/gptdriver,S21,15.0,San Francisco,4,"['developer-tools', 'generative-ai', 'b2b', 'no-code', 'ai']",AI native mobile testing.
+Tenyks,http://tenyks.ai/,S21,14.0,"Cambridge, United Kingdom",4,"['aiops', 'deep-learning', 'developer-tools', 'computer-vision', 'api']",Data-Centric Co-Pilot for Computer Vision Engineers
+Taskade,https://www.taskade.com,S19,14.0,San Francisco,4,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'collaboration']",AI-Powered Productivity — A Second Brain for You and  Your Teams
+Tara AI,http://www.tara.ai,W15,13.0,"San Jose, CA",4,"['artificial-intelligence', 'generative-ai', 'saas', 'devops', 'ai']","Meet Tara AI, your new engineering efficiency co-pilot."
+Truewind,https://www.truewind.ai/,W23,12.0,San Francisco,4,"['fintech', 'generative-ai', 'saas', 'b2b', 'ai']",AI-powered Bookkeeping and Finance Software
+DailyBot,https://www.dailybot.com/,S21,12.0,"Pereira, Colombia",4,"['artificial-intelligence', 'developer-tools', 'saas', 'collaboration', 'ai-assistant']",AI Assistant and Chat Add-ons for Work
+Aquarium Learning,https://www.aquariumlearning.com/,S20,12.0,San Francisco,4,"['deep-learning', 'developer-tools', 'generative-ai', 'machine-learning', 'ai']",We help ML teams improve their models by improving their datasets
+Mystic,https://www.mystic.ai/,W21,11.0,"London, United Kingdom",4,"['aiops', 'developer-tools', 'machine-learning', 'ai']",Low latency API to run and deploy ML models
+DeepSource,https://deepsource.com/,W20,11.0,San Francisco,4,"['developer-tools', 'saas', 'ai', 'ai-assistant']",The Code Health Platform
+JustPaid.io,https://www.justpaid.io,W23,10.0,Mountain View,4,"['ai-enhanced-learning', 'artificial-intelligence', 'fintech', 'ai', 'ai-assistant']",AI invoicing and bill pay
+Abstra,https://abstra.io,S21,10.0,"Rio de Janeiro, Brazil",4,"['artificial-intelligence', 'developer-tools', 'saas', 'b2b', 'automation']",Python-based BPM
+Dataherald,http://dataherald.com/,W21,10.0,"Los Angeles, CA",4,"['ai-enhanced-learning', 'artificial-intelligence', 'saas', 'b2b']",Embed NL-to-SQL into your Product 📈
