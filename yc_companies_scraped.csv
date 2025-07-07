@@ -1,0 +1,41 @@
+name,website,description,location,tags,batch,scraped_at
+,,,,"['DoorDash', 'SUMMER 2013', 'DoorDashSan Francisco, CA, USA', 'Restaurant delivery.', 'CONSUMER', 'San Francisco, CA, USA', 'FOOD AND BEVERAGE', 'SUMMER 2013\nCONSUMER\nFOOD AND BEVERAGE']",,2025-07-06T18:00:58.069414
+,,,,"['Buy, sell, and manage cryptocurrencies.', 'SUMMER 2012', 'SUMMER 2012\nFINTECH\nBANKING AND EXCHANGE', 'CoinbaseSan Francisco, CA, USA', 'San Francisco, CA, USA', 'FINTECH', 'BANKING AND EXCHANGE', 'Coinbase']",,2025-07-06T18:00:58.117307
+,,,,"['Book accommodations around the world.', 'Airbnb', 'WINTER 2009\nCONSUMER\nTRAVEL, LEISURE AND TOURISM', 'CONSUMER', 'San Francisco, CA, USA', 'AirbnbSan Francisco, CA, USA', 'TRAVEL, LEISURE AND TOURISM', 'WINTER 2009']",,2025-07-06T18:00:58.164123
+,,,,"['SUMMER 2012', 'Instacart', 'CONSUMER', 'San Francisco, CA, USA', 'FOOD AND BEVERAGE', 'Marketplace for grocery delivery and pickup', 'SUMMER 2012\nCONSUMER\nFOOD AND BEVERAGE', 'InstacartSan Francisco, CA, USA']",,2025-07-06T18:00:58.205723
+,,,,"['SUMMER 2014\nINDUSTRIALS\nENERGY', 'Oklo', 'INDUSTRIALS', 'ENERGY', 'OkloSanta Clara, CA, USA', 'SUMMER 2014', 'Santa Clara, CA, USA']",,2025-07-06T18:00:58.250097
+,,,,"['WINTER 2015', 'GitLab', 'ENGINEERING, PRODUCT AND DESIGN', 'WINTER 2015\nB2B\nENGINEERING, PRODUCT AND DESIGN', 'San Francisco, CA, USA', 'GitLabSan Francisco, CA, USA', 'B2B']",,2025-07-06T18:00:58.311178
+,,,,"['Backup and share files in the cloud.', 'Dropbox', 'SUMMER 2007', 'San Francisco, CA, USA', 'PRODUCTIVITY', 'DropboxSan Francisco, CA, USA', 'SUMMER 2007\nB2B\nPRODUCTIVITY', 'B2B']",,2025-07-06T18:00:58.351268
+,,,,"['Rigetti Computing', 'INDUSTRIALS', 'Berkeley, CA, USA', 'Quantum coherent supercomputing.', 'Rigetti ComputingBerkeley, CA, USA', 'SUMMER 2014', 'MANUFACTURING AND ROBOTICS']",,2025-07-06T18:00:58.391610
+,,,,"['VIRTUAL AND AUGMENTED REALITY', 'Matterport', 'CONSUMER', 'WINTER 2012', 'Sunnyvale, CA, USA', 'MatterportSunnyvale, CA, USA']",,2025-07-06T18:00:58.435187
+,,,,"['Amplitude', 'San Francisco, CA, USA', 'ANALYTICS', 'Digital Analytics Platform', 'WINTER 2012', 'WINTER 2012\nB2B\nANALYTICS', 'AmplitudeSan Francisco, CA, USA', 'B2B']",,2025-07-06T18:00:58.474102
+,,,,"['SUMMER 2010', 'PagerDutySan Francisco, CA, USA', 'ENGINEERING, PRODUCT AND DESIGN', 'SUMMER 2010\nB2B\nENGINEERING, PRODUCT AND DESIGN', 'San Francisco, CA, USA', 'PagerDuty', 'B2B']",,2025-07-06T18:00:58.515895
+,,,,"['HEALTHCARE', 'Ginkgo BioworksBoston, MA, USA', 'Ginkgo Bioworks', 'INDUSTRIAL BIO', 'Boston, MA, USA', 'SUMMER 2014', 'SUMMER 2014\nHEALTHCARE\nINDUSTRIAL BIO']",,2025-07-06T18:00:58.557936
+,,,,"['Customer communication and payments platform.', 'WINTER 2014', 'WeaveLehi, UT, USA', 'WINTER 2014\nB2B\nOFFICE MANAGEMENT', 'Lehi, UT, USA', 'Weave', 'OFFICE MANAGEMENT', 'B2B']",,2025-07-06T18:00:58.600835
+,,,,"['Pardes BiosciencesSan Francisco, CA, USA', 'SUMMER 2020', 'HEALTHCARE', 'We break viruses', 'San Francisco, CA, USA', 'DRUG DISCOVERY AND DELIVERY', 'Pardes Biosciences']",,2025-07-06T18:00:58.646420
+,,,,"['Embark TrucksSan Francisco, CA, USA', 'INDUSTRIALS', 'WINTER 2016', 'San Francisco, CA, USA', 'Embark Trucks', 'Self-driving semi trucks.', 'WINTER 2016\nINDUSTRIALS\nAUTOMOTIVE', 'AUTOMOTIVE']",,2025-07-06T18:00:58.689929
+,,,,"['WINTER 2015', 'HEALTHCARE', 'DIAGNOSTICS', 'Lucira Health', 'Next generation infectious disease test kits', 'Emeryville, CA, USA', 'Lucira HealthEmeryville, CA, USA', 'WINTER 2015\nHEALTHCARE\nDIAGNOSTICS']",,2025-07-06T18:00:58.731513
+,,,,"['AVIATION AND SPACE', 'INDUSTRIALS', 'The space infrastructure services company', 'MomentusSanta Clara, CA, USA', 'SUMMER 2018\nINDUSTRIALS\nAVIATION AND SPACE', 'Momentus', 'SUMMER 2018', 'Santa Clara, CA, USA']",,2025-07-06T18:00:58.804555
+,,,,"['SegmentSan Francisco, CA, USA', 'San Francisco, CA, USA', 'ANALYTICS', 'SUMMER 2011', 'Segment', 'B2B', 'SUMMER 2011\nB2B\nANALYTICS']",,2025-07-06T18:00:58.854287
+,,,,"['WINTER 2014', 'ENGINEERING, PRODUCT AND DESIGN', 'San Francisco, CA, USA', 'Algolia', 'WINTER 2014\nB2B\nENGINEERING, PRODUCT AND DESIGN', 'AlgoliaSan Francisco, CA, USA', 'B2B']",,2025-07-06T18:00:58.895326
+,,,,"['Live your best financial life', 'WINTER 2016', 'FINTECH', 'TruebillSilver Spring, MD, USA', 'WINTER 2016\nFINTECH\nCONSUMER FINANCE', 'Silver Spring, MD, USA', 'Truebill', 'CONSUMER FINANCE']",,2025-07-06T18:00:58.936905
+,,,,"['CONSUMER', 'San Francisco, CA, USA', 'Twitch', 'TwitchSan Francisco, CA, USA', 'WINTER 2007', 'WINTER 2007\nCONSUMER\nCONTENT', 'CONTENT']",,2025-07-06T18:00:58.979476
+,,,,"['PlanGridSan Francisco, CA, USA', 'San Francisco, CA, USA', 'REAL ESTATE AND CONSTRUCTION', 'CONSTRUCTION', 'WINTER 2012', 'PlanGrid']",,2025-07-06T18:00:59.020049
+,,,,"['WINTER 2014\nCONSUMER\nCONSUMER ELECTRONICS', 'WINTER 2014', 'BellabeatSan Francisco, CA, USA', 'CONSUMER', 'San Francisco, CA, USA', 'CONSUMER ELECTRONICS', ""Tech-powered women's wellness."", 'Bellabeat']",,2025-07-06T18:00:59.060932
+,,,,"['Cruise', 'WINTER 2014', 'INDUSTRIALS', 'San Francisco, CA, USA', 'CruiseSan Francisco, CA, USA', 'Self-driving cars.', 'WINTER 2014\nINDUSTRIALS\nAUTOMOTIVE', 'AUTOMOTIVE']",,2025-07-06T18:00:59.101198
+,,,,"['SUMMER 2012', 'BenchlingSan Francisco, CA, USA', 'San Francisco, CA, USA', 'Benchling', 'SUMMER 2012\nB2B', 'B2B']",,2025-07-06T18:00:59.139975
+,,,,"['SUMMER 2013', 'CasetextSan Francisco, CA, USA', 'San Francisco, CA, USA', 'SUMMER 2013\nB2B\nLEGAL', ""We make the world's laws free and understandable."", 'Casetext', 'LEGAL', 'B2B']",,2025-07-06T18:00:59.210826
+,,,,"['SUMMER 2016\nB2B\nENGINEERING, PRODUCT AND DESIGN', 'ENGINEERING, PRODUCT AND DESIGN', 'BirdAmsterdam, NH, Netherlands', 'B2B', 'Bird', 'SUMMER 2016', 'Amsterdam, NH, Netherlands']",,2025-07-06T18:00:59.323587
+,,,,"['Brex', 'BrexSan Francisco, CA, USA', 'WINTER 2017', 'San Francisco, CA, USA', 'FINTECH', 'WINTER 2017\nFINTECH\nBANKING AND EXCHANGE', 'BANKING AND EXCHANGE']",,2025-07-06T18:00:59.365478
+,,,,"['SUMMER 2016', 'The AthleticSan Francisco, CA, USA', 'CONSUMER', 'San Francisco, CA, USA', 'The Athletic', 'SUMMER 2016\nCONSUMER\nCONTENT', 'Subscription sports media.', 'CONTENT']",,2025-07-06T18:00:59.407020
+,,,,"['Codecademy', 'CodecademyNew York, NY, USA', 'SUMMER 2011\nEDUCATION', 'SUMMER 2011', 'EDUCATION', 'New York, NY, USA']",,2025-07-06T18:00:59.443418
+,,,,"['SUMMER 2014\nB2B\nHUMAN RESOURCES', 'HUMAN RESOURCES', 'San Francisco, CA, USA', 'People infrastructure for the future of work', 'CheckrSan Francisco, CA, USA', 'SUMMER 2014', 'Checkr', 'B2B']",,2025-07-06T18:00:59.486563
+,,,,"['SUMMER 2012', 'RECRUITING AND TALENT', 'San Francisco, CA, USA', 'LeverSan Francisco, CA, USA', 'Lever', 'SUMMER 2012\nB2B\nRECRUITING AND TALENT', 'B2B']",,2025-07-06T18:00:59.529655
+,,,,"['HEALTHCARE', 'HEALTHCARE SERVICES', 'Remote', 'WINTER 2017', 'WINTER 2017\nHEALTHCARE\nHEALTHCARE SERVICES', 'Clipboard Health', 'Clipboard HealthRemote']",,2025-07-06T18:00:59.570609
+,,,,"['WINTER 2013\nB2B\nANALYTICS', 'San Francisco, CA, USA', 'ANALYTICS', 'Heap', 'WINTER 2013', 'B2B', 'HeapSan Francisco, CA, USA']",,2025-07-06T18:00:59.609324
+,,,,"['SendwaveBoston, MA, USA', 'FINTECH', 'PAYMENTS', 'WINTER 2012', 'Sendwave', 'Instant, no fee international remittances.', 'Boston, MA, USA', 'WINTER 2012\nFINTECH\nPAYMENTS']",,2025-07-06T18:00:59.654351
+,,,,"['FINANCE AND ACCOUNTING', 'San Francisco, CA, USA', 'DeelSan Francisco, CA, USA', 'WINTER 2019', 'WINTER 2019\nB2B\nFINANCE AND ACCOUNTING', 'Deel', 'B2B']",,2025-07-06T18:00:59.693598
+,,,,"['Clever', 'SUMMER 2012', 'CleverSan Francisco, CA, USA', 'San Francisco, CA, USA', 'SUMMER 2012\nEDUCATION', 'EDUCATION']",,2025-07-06T18:00:59.730584
+,,,,"['Caper', 'WINTER 2016', 'WINTER 2016\nB2B\nRETAIL', 'B2B', 'RETAIL']",,2025-07-06T18:00:59.770749
+,,,,"['WINTER 2015', 'Columbia, MO, USA', 'Cloud solutions for the construction industry.', 'REAL ESTATE AND CONSTRUCTION', 'CONSTRUCTION', 'EquipmentShare', 'EquipmentShareColumbia, MO, USA']",,2025-07-06T18:00:59.810857
+,,,,"['The frontpage of the internet.', 'SUMMER 2005', 'Reddit', 'CONSUMER', 'San Francisco, CA, USA', 'RedditSan Francisco, CA, USA', 'SUMMER 2005\nCONSUMER\nCONTENT', 'CONTENT']",,2025-07-06T18:00:59.852133

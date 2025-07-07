@@ -1,51 +1,51 @@
-company_name,website,team_size,fit_score,tech_stack,blog_url,location,priority_score
-Roboflow,https://roboflow.com,40.0,5,"['Webflow', 'Next.js']",https://roboflow.com/blog,San Francisco,8
-Taskade,https://www.taskade.com,14.0,4,"['Webflow', 'Framer', 'WordPress', 'Next.js', 'React']",https://www.taskade.com/blog,San Francisco,8
-DraftWise,https://www.draftwise.com/,28.0,3,['Webflow'],https://www.draftwise.com/blog,New York,6
-SwiftSku,https://swiftsku.com,35.0,3,['Webflow'],https://swiftsku.com/blog,San Francisco,6
-DailyBot,https://www.dailybot.com/,12.0,4,['Webflow'],https://www.dailybot.com/blog,"Pereira, Colombia",6
-Truewind,https://www.truewind.ai/,12.0,4,"['Framer', 'Vue']",https://www.truewind.ai/blog,San Francisco,6
-Tenyks,http://tenyks.ai/,14.0,4,['Webflow'],http://tenyks.ai/blog,"Cambridge, United Kingdom",6
-Theneo,https://theneo.io,15.0,4,['Webflow'],https://theneo.io/blog,San Francisco,6
-Freshpaint,https://freshpaint.io,45.0,3,['Webflow'],https://freshpaint.io/blog,San Francisco,6
-Deed,https://www.joindeed.com,40.0,3,['Webflow'],https://www.joindeed.com/blog,New York,6
-Writesonic,https://writesonic.com/,30.0,4,"['Webflow', 'WordPress']",https://writesonic.com/blog,San Francisco,6
-NewsCatcher,https://newscatcherapi.com/,18.0,4,['Webflow'],https://newscatcherapi.com/blog,"Kyiv, Ukraine",6
-Typewise,https://typewise.app,12.0,5,['Webflow'],https://typewise.app/blog,"Zürich, Switzerland",6
-Curacel,https://curacel.co,30.0,3,['Webflow'],https://curacel.co/blog,"Lagos, Nigeria",6
-Waterplan,http://waterplan.com,30.0,3,['Framer'],http://waterplan.com/blog,San Francisco,6
-Cinapse,https://cinapse.io,10.0,5,['Webflow'],https://cinapse.io/blog,"Los Angeles, CA",6
-Unify,https://unify.ai,10.0,5,['Webflow'],https://unify.ai/blog,"London, United Kingdom",6
-Tailor,https://www.tailor.tech/,16.0,5,"['Framer', 'Shopify']",https://www.tailor.tech/blog,"Tokyo, Japan",6
-Mindee,https://mindee.com,60.0,3,['Webflow'],https://mindee.com/blog,"Paris, France",5
-DimOrder,https://dimorder.com,70.0,3,"['Framer', 'WordPress']",https://dimorder.com/blog,"Hong Kong, Hong Kong",5
-Rosebud AI,http://rosebud.ai,10.0,4,['React'],http://rosebud.ai/blog,San Francisco,5
-Abstra,https://abstra.io,10.0,4,['React'],https://abstra.io/articles,"Rio de Janeiro, Brazil",5
-DeepSource,https://deepsource.com/,11.0,4,"['React', 'Vue']",https://deepsource.com/blog,San Francisco,5
-NanoNets,https://nanonets.com,55.0,4,['Webflow'],https://nanonets.com/blog,San Francisco,5
-Okteto,https://okteto.com,30.0,3,['React'],https://okteto.com/blog,San Francisco,5
-Anima App,https://www.animaapp.com,35.0,3,"['React', 'Vue']",https://www.animaapp.com/blog,New York,5
-Regology,http://regology.com,54.0,3,['Webflow'],http://regology.com/blog,Palo Alto,5
-MobileBoost,https://www.mobileboost.io/gptdriver,15.0,4,"['WordPress', 'React', 'Angular']",https://www.mobileboost.io/blog,San Francisco,5
-Volley,https://volleythat.com,75.0,3,['Webflow'],https://volleythat.com/blog,San Francisco,5
-Cortex,https://cortex.io/,50.0,3,['React'],https://cortex.io/blog,San Francisco,5
-MarqVision,https://www.marqvision.com/,90.0,3,['Webflow'],https://www.marqvision.com/blog,"Los Angeles, CA",5
-MixerBox,http://mixerbox.com,70.0,3,['React'],http://mixerbox.com/blog,Palo Alto,4
-Duffel,https://duffel.com/,70.0,3,['React'],https://duffel.com/blog,"London, United Kingdom",4
-Encord,https://encord.com,60.0,5,"['React', 'Vue']",https://encord.com/blog,"London, United Kingdom",4
-Verihubs,https://verihubs.com,90.0,3,"['React', 'Vue']",https://verihubs.com/blog,"Jakarta, Indonesia",4
-JustPaid.io,https://www.justpaid.io,10.0,4,['Webflow'],,Mountain View,4
-Aquarium Learning,https://www.aquariumlearning.com/,12.0,4,['Webflow'],,San Francisco,4
-Convictional,https://convictional.com,25.0,4,['Webflow'],,"Toronto, Canada",4
-Middleware,https://www.middleware.io,40.0,3,[],https://www.middleware.io/blog,San Francisco,3
-Pibit.ai,https://pibit.ai,30.0,4,[],sitemap_blog,Palo Alto,3
-Peoplebox,https://www.peoplebox.ai,35.0,4,['WordPress'],https://www.peoplebox.ai/blog,San Francisco,3
-Humanloop,https://humanloop.com,10.0,5,[],https://humanloop.com/blog,"London, United Kingdom",3
-Bobidi,http://www.bobidi.com,15.0,5,['React'],,"Los Gatos, CA",3
-"Veryfi, Inc.",https://www.veryfi.com/,60.0,4,['WordPress'],https://www.veryfi.com/blog,"San Mateo, CA",2
-Photoroom,https://photoroom.com/,60.0,4,"['Shopify', 'Vue']",https://photoroom.com/blog,"Paris, France",2
-Dataherald,http://dataherald.com/,10.0,4,['Error: HTTPConnectionPool(h'],,"Los Angeles, CA",1
-Tara AI,http://www.tara.ai,13.0,4,['Error: Exceeded 30 redirect'],,"San Jose, CA",1
-Skyways,http://skyways.com,23.0,4,[],,"Austin, TX",1
-Mystic,https://www.mystic.ai/,11.0,4,['Error: HTTPSConnectionPool('],,"London, United Kingdom",1
-Rootly,https://rootly.com,52.0,3,[],,San Francisco,0
+company_name,website,batch,team_size,fit_score,tech_stack,blog_url,customers_or_partners,location,priority_score
+Deed,https://www.joindeed.com,S21,40.0,3,['Webflow'],https://www.joindeed.com/blog,[],New York,6
+Truewind,https://www.truewind.ai/,W23,12.0,4,"['Framer', 'Vue']",https://www.truewind.ai/blog,"['we help customers achieve measurable results', 'faster bank categorization', 'transaction work absorbed', 'reduction in reconciliation time', '95 improvement', 'coursecorrected        18 months', 'coursecorrected 18 months', 'im an enterprise what does truewind do for me', 'im a startup  smb what does truewind do for me', 'what does a partnership with truewind look like']",San Francisco,6
+Curacel,https://curacel.co,W22,30.0,3,['Webflow'],https://curacel.co/blog,[],"Lagos, Nigeria",6
+SwiftSku,https://swiftsku.com,W21,35.0,3,['Webflow'],https://swiftsku.com/blog,[],San Francisco,6
+Tailor,https://www.tailor.tech/,S22,16.0,5,"['Framer', 'Shopify']",https://www.tailor.tech/blog,[],"Tokyo, Japan",6
+Cinder,http://www.cinder.co,W22,20.0,3,['Webflow'],http://www.cinder.co/blog,[],"Washington, DC",6
+Pump.co,https://www.pump.co/,S22,18.0,3,['Framer'],https://www.pump.co/blog,"['wall of love', 'cloud spend across all of our customers', 'case studies', 'âit saved us 3200 just last monthâ', 'yogesh ranade', 'nextfangtechlead', 'dax', 'michael green', 'jake casto', 'david sievers']",San Francisco,6
+BotCity,https://botcity.dev,W22,18.0,3,['Webflow'],https://botcity.dev/insights,[],San Francisco,6
+Versori,https://www.versori.com/,W23,16.0,3,"['Webflow', 'Shopify', 'Vue']",https://www.versori.com/blog,"['why partner with versori', 'unlocking blocked deals', 'winning enterprise deals', 'enabling integration strategies', 'who do we partner with', 'referral', 'reseller', 'strategic alliance', 'what youâll get by partnering with versori', 'presales support']","Manchester, United Kingdom",6
+Oneleet,https://oneleet.com,S22,15.0,3,['Framer'],https://oneleet.com/blog,[],"Amsterdam, Netherlands",6
+Tavus,https://www.tavus.io,S21,15.0,3,['Webflow'],https://www.tavus.io/blog,[],San Francisco,6
+Secoda,https://secoda.co,S21,27.0,3,['Webflow'],https://secoda.co/blog,"['by role', 'customer stories', 'how panasonic manages data at scale', 'get started in minutes', 'product', 'solutions', 'use cases', 'resources', 'company', 'social']","Toronto, Canada",6
+DailyBot,https://www.dailybot.com/,S21,12.0,4,['Webflow'],https://www.dailybot.com/blog,"['resources', 'partner with us', 'dailybot partners program', 'help us shape the future of work', 'reach out in a few simple steps', 'fill out the application form', 'wait for approval usually just a few days', 'the partnership is yours â', 'i want to build on top of dailybot', 'i want to offer a service to companies']","Pereira, Colombia",6
+Tenyks,http://tenyks.ai/,S21,14.0,4,['Webflow'],http://tenyks.ai/blog,"['enjoy improving your ml models', 'tenyks', 'company', 'platform', 'resources', 'logo tenyks', 'try our platform and get the early access  2', 'recycleye enhances its mlops with tenyks', 'logogdpr', 'logosoc']","Cambridge, United Kingdom",6
+Theneo,https://theneo.io,W22,15.0,4,['Webflow'],https://theneo.io/blog,[],San Francisco,6
+NewsCatcher,https://newscatcherapi.com/,S22,18.0,4,['Webflow'],https://newscatcherapi.com/blog,['subscribe to our newsletter'],"Kyiv, Ukraine",6
+Writesonic,https://writesonic.com/,S21,30.0,4,"['Webflow', 'WordPress']",https://writesonic.com/blog,[],San Francisco,6
+Metal,http://www.metal.so,W23,14.0,3,"['Webflow', 'Framer']",http://www.metal.so/blog,[],,6
+Cinapse,https://cinapse.io,W22,10.0,5,['Webflow'],https://cinapse.io/blog,[],"Los Angeles, CA",6
+Unify,https://unify.ai,W23,10.0,5,['Webflow'],https://unify.ai/blog,[],"London, United Kingdom",6
+Typewise,https://typewise.app,S22,12.0,5,['Webflow'],https://typewise.app/blog,"['customer success stories', 'get up amp running in days not weeks', 'typewise main logotype', 'abolta logo', 'beurer logotype', 'dpd typewise client logo', 'kelag logotype', 'polaris typewisex27s client logo', 'stef logotype', 'iveco typewise client logo']","Zürich, Switzerland",6
+Floworks,https://floworks.ai/,W23,13.0,3,['Webflow'],https://floworks.ai/blog,[],San Francisco,6
+Waterplan,http://waterplan.com,S21,30.0,3,['Framer'],http://waterplan.com/blog,[],San Francisco,6
+MobileBoost,https://www.mobileboost.io/gptdriver,S21,15.0,4,"['WordPress', 'React', 'Angular']",https://www.mobileboost.io/blog,[],San Francisco,5
+Abstra,https://abstra.io,S21,10.0,4,['React'],https://abstra.io/articles,[],"Rio de Janeiro, Brazil",5
+SigNoz,https://signoz.io,W21,15.0,3,['React'],sitemap_blog,[],"Bengaluru, India",5
+MarqVision,https://www.marqvision.com/,S21,90.0,3,['Webflow'],https://www.marqvision.com/blog,[],"Los Angeles, CA",5
+DimOrder,https://dimorder.com,W22,70.0,3,"['Framer', 'WordPress']",https://dimorder.com/blog,[],"Hong Kong, Hong Kong",5
+Mindee,https://mindee.com,W21,60.0,3,['Webflow'],https://mindee.com/blog,"['partner with mindee', 'partnership models', 'technology partners', 'solution providers', 'resellers', 'partner benefits', 'technical resources', 'marketing support', 'sales enablement', 'partner portal']","Paris, France",5
+Encord,https://encord.com,W21,60.0,5,"['React', 'Vue']",https://encord.com/blog,"['automotus', 'standard ai', 'conxai', 'card_logo', 'tractable', 'card cover image', 'card logo image', 'synthesia', 'woven toyota', 'mayo clinic']","London, United Kingdom",4
+Verihubs,https://verihubs.com,S21,90.0,3,"['React', 'Vue']",https://verihubs.com/blog,[],"Jakarta, Indonesia",4
+JustPaid.io,https://www.justpaid.io,W23,10.0,4,['Webflow'],,[],Mountain View,4
+Spark Studio,https://sparkstudio.co,S21,27.0,3,[],https://sparkstudio.co/blog,[],"Bengaluru, India",3
+autone,https://autone.io,S22,20.0,3,[],https://autone.io/blog,"['ready to join the retail renaissance', 'en flag', 'set the tone for', 'referral', 'solution', 'tech', 'unlock premium revenue streams', 'meet your partnership lead']","London, United Kingdom",3
+Bobidi,http://www.bobidi.com,W22,15.0,5,['React'],,[],"Los Gatos, CA",3
+RenderNet,https://rendernet.ai,S21,14.0,3,[],https://rendernet.ai/blog,['metafacebookimg'],"Bengaluru, India",3
+Peoplebox,https://www.peoplebox.ai,S22,35.0,4,['WordPress'],https://www.peoplebox.ai/blog,"['our customers', 'read our customer success stories', 'what customers have to say about peoplebox', 'youre in good company', 'peoplebox logo', 'jaclyn hoover', 'swapna nair', 'khilan haria', 'arrow', 'group155png']",San Francisco,3
+Pibit.ai,https://pibit.ai,W21,30.0,4,[],sitemap_blog,[],Palo Alto,3
+Waydev,https://waydev.co,W21,15.0,3,['WordPress'],https://waydev.co/blog,"['delivery', 'health', 'planning', 'studio', 'customer center', 'case studies', 'dora metrics playbook', 'downlaod', 'dora metrics', 'cycle time']",San Francisco,3
+DigiBuild,https://digibuild.com,S21,15.0,3,['WordPress'],https://digibuild.com/news,['customers'],"Miami, FL",3
+SuperKalam,https://superkalam.com,W23,12.0,3,[],https://superkalam.com/blog,[],"Bengaluru, India",3
+Infisical,https://infisical.com,W23,15.0,3,[],https://infisical.com/blog,[],San Francisco,3
+Omnistrate,http://www.omnistrate.com,W23,15.0,3,['React'],,"['partner with omnistrate', 'benefits of integrating with omnistrate', 'accelerate innovation', 'shared customer success', 'expand your reach', 'community and collaboration', 'beautiful analytics to grow smarter', 'observability', 'alerting', 'auth']","Redwood City, CA",3
+SnapTrade,https://snaptrade.com/,W22,17.0,3,['React'],,[],"Fredericton, Canada",3
+Middleware,https://www.middleware.io,W23,40.0,3,[],https://www.middleware.io/blog,"['product', 'our platform', 'our solution', 'comparison', 'resources', 'company', 'security', 'middleware logos', 'customer success', 'bardeen']",San Francisco,3
+Mystic,https://www.mystic.ai/,W21,11.0,4,['Error: HTTPSConnectionPool('],,[],"London, United Kingdom",1
+Dataherald,http://dataherald.com/,W21,10.0,4,['Error: HTTPConnectionPool(h'],,[],"Los Angeles, CA",1
+Salvy,https://www.salvy.com.br,W24,12.0,3,[],,[],"Curitiba, Brazil",1
+Strobe,https://strobe.app,W22,15.0,3,[],,[],"Victoria, Canada",1
+Rootly,https://rootly.com,S21,52.0,3,[],,[],San Francisco,0

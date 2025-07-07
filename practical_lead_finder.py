@@ -25,7 +25,23 @@ def main():
     print("=" * 60)
     
     # Load data
-    df = pd.read_csv('data/2024-05-11-yc-companies.csv')
+    #df = pd.read_csv('data/2024-05-11-yc-companies.csv')
+    df = pd.read_csv('yc_companies_filtered.csv')
+    # Ensure 'tags' column exists for compatibility with both old and new datasets
+    if 'tags' not in df.columns:
+        if 'industry_tags' in df.columns:
+            df['tags'] = df['industry_tags']
+            print("🛈 Using 'industry_tags' column as 'tags'.")
+        else:
+            raise ValueError("No 'tags' or 'industry_tags' column found in input CSV.")
+        
+    if 'company_name' not in df.columns:
+        if 'name' in df.columns:
+            df['company_name'] = df['name']
+            print("🛈 Using 'name' column as 'company_name'.")
+        else:
+            raise ValueError("No 'company_name' or 'name' column found in input CSV.")
+        
     print(f"📊 Loaded {len(df):,} companies\n")
     
     # Parse tags
@@ -70,14 +86,26 @@ def main():
     
     print(f"High-fit companies (dev tools/AI): {len(high_fit_df)}")
     
-    print("\n🔍 STEP 2: Recent Companies (Founded after 2021)")
+    print("\n🔍 STEP 2: Recent Companies (Batches 2021+)")
     print("-" * 40)
     
-    # Extract batch year
-    high_fit_df['batch_year'] = high_fit_df['batch'].str.extract(r'(\d{2})').astype(float)
+    # Extract batch year and filter for 2021+ batches
+    def extract_batch_year(batch_str):
+        """Extract year from batch string (e.g., 'W21' -> 21, 'S22' -> 22)"""
+        if pd.isna(batch_str) or batch_str == '':
+            return 0
+        try:
+            # Extract the 2-digit year from batch string
+            year_match = batch_str[-2:]  # Get last 2 characters
+            return int(year_match)
+        except:
+            return 0
+    
+    high_fit_df['batch_year'] = high_fit_df['batch'].apply(extract_batch_year)
     recent_companies = high_fit_df[high_fit_df['batch_year'] >= 21].copy()
     
-    print(f"Recent companies (2021+): {len(recent_companies)}")
+    print(f"Companies from 2021+ batches: {len(recent_companies)}")
+    print(f"Batch range: {recent_companies['batch_year'].min()}-{recent_companies['batch_year'].max()}")
     
     print("\n🔍 STEP 3: Top Lead Candidates")
     print("-" * 40)
@@ -132,8 +160,14 @@ def main():
     print("\n🎯 STEP 7: Actionable Lead List")
     print("-" * 40)
     
+    # Apply batch filtering to the sweet spot companies
+    sweet_spot['batch_year'] = sweet_spot['batch'].apply(extract_batch_year)
+    recent_sweet_spot = sweet_spot[sweet_spot['batch_year'] >= 21].copy()
+    
+    print(f"Recent companies in sweet spot (10-100 employees, 2021+ batches): {len(recent_sweet_spot)}")
+    
     # Create final lead list
-    final_leads = sweet_spot.head(50)[[
+    final_leads = recent_sweet_spot.head(50)[[
         'company_name', 'website', 'batch', 'team_size', 'location', 
         'fit_score', 'tags_parsed', 'short_description'
     ]].copy()
@@ -149,8 +183,8 @@ def main():
         print(f"    📝 {lead['short_description'][:80]}...")
     
     # Export to CSV
-    final_leads.to_csv('top_50_yc_seo_leads.csv', index=False)
-    print(f"\n✅ Exported top 50 leads to 'top_50_yc_seo_leads.csv'")
+    final_leads.to_csv('top_50_yc_seo_leads_2025.csv', index=False)
+    print(f"\n✅ Exported top 50 leads to 'top_50_yc_seo_leads_2025.csv'")
     
     print("\n🎯 NEXT STEPS:")
     print("-" * 40)

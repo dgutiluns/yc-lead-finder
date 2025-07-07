@@ -74,6 +74,100 @@ def check_blog_presence(website):
     except Exception as e:
         return f"Error: {str(e)[:20]}"
 
+def extract_customers_partners(website):
+    """Extract customer or partner information from company website."""
+    try:
+        # Common customer/partner page patterns
+        customer_patterns = [
+            '/customers', '/case-studies', '/partners', '/clients',
+            '/success-stories', '/testimonials', '/trusted-by',
+            '/who-uses', '/customers-success', '/partners-customers'
+        ]
+        
+        customers_found = []
+        
+        # Check main page first
+        try:
+            response = requests.get(website, timeout=10, headers={
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+            })
+            html = response.text.lower()
+            
+            # Look for common customer indicators in main page
+            customer_indicators = [
+                'trusted by', 'used by', 'powering', 'customers include',
+                'partners include', 'clients include', 'success stories',
+                'case studies', 'testimonials'
+            ]
+            
+            for indicator in customer_indicators:
+                if indicator in html:
+                    # Extract text around these indicators
+                    start_idx = html.find(indicator)
+                    if start_idx != -1:
+                        # Get surrounding text (500 characters)
+                        surrounding_text = html[max(0, start_idx-250):start_idx+250]
+                        # Look for company names (capitalized words)
+                        import re
+                        potential_companies = re.findall(r'\b[A-Z][a-z]+(?:\s+[A-Z][a-z]+)*\b', surrounding_text)
+                        customers_found.extend(potential_companies[:5])  # Limit to 5
+        except:
+            pass
+        
+        # Check specific customer/partner pages
+        for pattern in customer_patterns:
+            customer_url = urljoin(website, pattern)
+            try:
+                response = requests.get(customer_url, timeout=8, headers={
+                    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+                })
+                if response.status_code == 200:
+                    html = response.text.lower()
+                    
+                    # Look for company names in customer pages
+                    import re
+                    # Common patterns for company names in customer sections
+                    company_patterns = [
+                        r'<h[1-6][^>]*>([^<]+)</h[1-6]>',  # Headers
+                        r'<div[^>]*class="[^"]*logo[^"]*"[^>]*>([^<]+)</div>',  # Logo divs
+                        r'<span[^>]*class="[^"]*company[^"]*"[^>]*>([^<]+)</span>',  # Company spans
+                    ]
+                    
+                    for pattern in company_patterns:
+                        matches = re.findall(pattern, html, re.IGNORECASE)
+                        for match in matches:
+                            # Clean up the match
+                            clean_match = re.sub(r'[^\w\s]', '', match).strip()
+                            if len(clean_match) > 2 and len(clean_match) < 50:
+                                customers_found.append(clean_match)
+                    
+                    # Also look for alt text in images (often company logos)
+                    img_pattern = r'<img[^>]*alt="([^"]*)"[^>]*>'
+                    img_matches = re.findall(img_pattern, html, re.IGNORECASE)
+                    for match in img_matches:
+                        clean_match = re.sub(r'[^\w\s]', '', match).strip()
+                        if len(clean_match) > 2 and len(clean_match) < 50:
+                            customers_found.append(clean_match)
+                            
+            except:
+                continue
+        
+        # Remove duplicates and common false positives
+        unique_customers = []
+        false_positives = ['home', 'about', 'contact', 'privacy', 'terms', 'login', 'signup', 'menu', 'search']
+        
+        for customer in customers_found:
+            customer_clean = customer.strip()
+            if (customer_clean not in unique_customers and 
+                customer_clean not in false_positives and
+                len(customer_clean) > 2):
+                unique_customers.append(customer_clean)
+        
+        return unique_customers[:10] if unique_customers else []  # Limit to 10 customers
+        
+    except Exception as e:
+        return []
+
 def validate_leads(csv_file='top_50_yc_seo_leads.csv', sample_size=None):
     """Validate leads from CSV file."""
     print("🔍 Lead Validator for YC SEO Leads")
@@ -106,14 +200,20 @@ def validate_leads(csv_file='top_50_yc_seo_leads.csv', sample_size=None):
         blog_url = check_blog_presence(row['website'])
         print(f"    Blog: {blog_url if blog_url else 'Not found'}")
         
+        # Extract customers/partners
+        customers_partners = extract_customers_partners(row['website'])
+        print(f"    Customers/Partners: {', '.join(customers_partners) if customers_partners else 'None found'}")
+        
         # Store results
         validated_data.append({
             'company_name': row['company_name'],
             'website': row['website'],
+            'batch': row['batch'],
             'team_size': row['team_size'],
             'fit_score': row['fit_score'],
             'tech_stack': tech_stack,
             'blog_url': blog_url,
+            'customers_or_partners': customers_partners,
             'location': row['location']
         })
         

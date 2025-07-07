@@ -1,51 +1,51 @@
 company_name,website,batch,team_size,location,fit_score,tags_parsed,short_description
 Encord,https://encord.com,W21,60.0,"London, United Kingdom",5,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'ai']","All the tools you need to build better vision models, faster"
-Roboflow,https://roboflow.com,S20,40.0,San Francisco,5,"['artificial-intelligence', 'developer-tools', 'machine-learning', 'computer-vision', 'api']",🖼️ Give your software the sense of sight.
 Tailor,https://www.tailor.tech/,S22,16.0,"Tokyo, Japan",5,"['developer-tools', 'saas', 'b2b', 'api', 'enterprise']",Highly Customizable Headless ERP
 Bobidi,http://www.bobidi.com,W22,15.0,"Los Gatos, CA",5,"['aiops', 'generative-ai', 'machine-learning', 'nlp', 'ai']",Bug bounty as a Service for AI
 Typewise,https://typewise.app,S22,12.0,"Zürich, Switzerland",5,"['machine-learning', 'b2b', 'productivity', 'api', 'ai']",Boosting customer service and sales productivity by 2-3x.
 Unify,https://unify.ai,W23,10.0,"London, United Kingdom",5,"['artificial-intelligence', 'generative-ai', 'saas', 'api', 'ai']",Route Your Prompt to the Best LLM ✨
 Cinapse,https://cinapse.io,W22,10.0,"Los Angeles, CA",5,"['saas', 'b2b', 'entertainment', 'productivity', 'enterprise']",The Operating System of Hollywood
-Humanloop,https://humanloop.com,S20,10.0,"London, United Kingdom",5,"['generative-ai', 'machine-learning', 'saas', 'nlp', 'ai']",The developer platform for LLM applications
-Photoroom,https://photoroom.com/,S20,60.0,"Paris, France",4,"['artificial-intelligence', 'generative-ai', 'computer-vision', 'design-tools', 'api']",Power commerce photography with generative AI
-"Veryfi, Inc.",https://www.veryfi.com/,W17,60.0,"San Mateo, CA",4,"['artificial-intelligence', 'machine-learning', 'computer-vision', 'api']",APIs to Liberate Trapped Data in Unstructured Documents
-NanoNets,https://nanonets.com,W17,55.0,San Francisco,4,"['artificial-intelligence', 'developer-tools', 'saas', 'b2b']",Automatic Data Extraction
 Peoplebox,https://www.peoplebox.ai,S22,35.0,San Francisco,4,"['saas', 'b2b', 'productivity', 'hr-tech', 'enterprise']","OKR, Performance and Engagement tool integrated with your worktools"
 Writesonic,https://writesonic.com/,S21,30.0,San Francisco,4,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b']",AI-powered content creation - #1 AI tool for Writing Blogs in seconds
 Pibit.ai,https://pibit.ai,W21,30.0,Palo Alto,4,"['generative-ai', 'machine-learning', 'saas', 'b2b', 'insurance']",Transforming Commercial P&C Industry with LLM-Powered Document AI
-Convictional,https://convictional.com,W19,25.0,"Toronto, Canada",4,"['saas', 'b2b', 'retail', 'enterprise']",Onboard and integrate suppliers for dropship and marketplace
-Skyways,http://skyways.com,S17,23.0,"Austin, TX",4,"['air-taxis', 'computer-vision', 'ai', 'ml']",Creating a new form of air transportation.
 NewsCatcher,https://newscatcherapi.com/,S22,18.0,"Kyiv, Ukraine",4,"['saas', 'enterprise', 'big-data', 'enterprise-software', 'ai']",News API for risk and data teams
 Theneo,https://theneo.io,W22,15.0,San Francisco,4,"['artificial-intelligence', 'developer-tools', 'api', 'ai']",Stripe-like API Docs in just a few clicks
 MobileBoost,https://www.mobileboost.io/gptdriver,S21,15.0,San Francisco,4,"['developer-tools', 'generative-ai', 'b2b', 'no-code', 'ai']",AI native mobile testing.
 Tenyks,http://tenyks.ai/,S21,14.0,"Cambridge, United Kingdom",4,"['aiops', 'deep-learning', 'developer-tools', 'computer-vision', 'api']",Data-Centric Co-Pilot for Computer Vision Engineers
-Taskade,https://www.taskade.com,S19,14.0,San Francisco,4,"['artificial-intelligence', 'generative-ai', 'saas', 'b2b', 'collaboration']",AI-Powered Productivity — A Second Brain for You and  Your Teams
-Tara AI,http://www.tara.ai,W15,13.0,"San Jose, CA",4,"['artificial-intelligence', 'generative-ai', 'saas', 'devops', 'ai']","Meet Tara AI, your new engineering efficiency co-pilot."
 Truewind,https://www.truewind.ai/,W23,12.0,San Francisco,4,"['fintech', 'generative-ai', 'saas', 'b2b', 'ai']",AI-powered Bookkeeping and Finance Software
 DailyBot,https://www.dailybot.com/,S21,12.0,"Pereira, Colombia",4,"['artificial-intelligence', 'developer-tools', 'saas', 'collaboration', 'ai-assistant']",AI Assistant and Chat Add-ons for Work
-Aquarium Learning,https://www.aquariumlearning.com/,S20,12.0,San Francisco,4,"['deep-learning', 'developer-tools', 'generative-ai', 'machine-learning', 'ai']",We help ML teams improve their models by improving their datasets
 Mystic,https://www.mystic.ai/,W21,11.0,"London, United Kingdom",4,"['aiops', 'developer-tools', 'machine-learning', 'ai']",Low latency API to run and deploy ML models
-DeepSource,https://deepsource.com/,W20,11.0,San Francisco,4,"['developer-tools', 'saas', 'ai', 'ai-assistant']",The Code Health Platform
 JustPaid.io,https://www.justpaid.io,W23,10.0,Mountain View,4,"['ai-enhanced-learning', 'artificial-intelligence', 'fintech', 'ai', 'ai-assistant']",AI invoicing and bill pay
 Abstra,https://abstra.io,S21,10.0,"Rio de Janeiro, Brazil",4,"['artificial-intelligence', 'developer-tools', 'saas', 'b2b', 'automation']",Python-based BPM
 Dataherald,http://dataherald.com/,W21,10.0,"Los Angeles, CA",4,"['ai-enhanced-learning', 'artificial-intelligence', 'saas', 'b2b']",Embed NL-to-SQL into your Product 📈
-Rosebud AI,http://rosebud.ai,S19,10.0,San Francisco,4,"['artificial-intelligence', 'developer-tools', 'generative-ai', 'machine-learning', 'gaming']",Make games at the speed of thought. 
 Verihubs,https://verihubs.com,S21,90.0,"Jakarta, Indonesia",3,"['saas', 'b2b', 'ai']",Identity and Risk Decision Platfrom for Indonesia
 MarqVision,https://www.marqvision.com/,S21,90.0,"Los Angeles, CA",3,"['saas', 'b2b', 'legaltech', 'ai']",MarqVision builds an IP Operating System in a digital economy
-Volley,https://volleythat.com,W18,75.0,San Francisco,3,"['artificial-intelligence', 'speech-recognition', 'entertainment', 'gaming', 'nlp']","Voice AI games on smart speakers, TVs, and mobile"
 DimOrder,https://dimorder.com,W22,70.0,"Hong Kong, Hong Kong",3,"['fintech', 'saas', 'b2b', 'supply-chain']",Toast for Southeast Asia
-Duffel,https://duffel.com/,S18,70.0,"London, United Kingdom",3,"['developer-tools', 'airplanes', 'travel', 'api', 'transportation']",The complete toolkit to sell travel.
-MixerBox,http://mixerbox.com,W14,70.0,Palo Alto,3,"['artificial-intelligence', 'generative-ai', 'consumer', 'productivity']",AI Super-Apps to Live Easier | The anything anytime superapps…
 Mindee,https://mindee.com,W21,60.0,"Paris, France",3,"['artificial-intelligence', 'deep-learning', 'developer-tools', 'automation', 'apis']",AI Document Understanding API
-Regology,http://regology.com,S18,54.0,Palo Alto,3,"['artificial-intelligence', 'saas', 'b2b']",Regulatory compliance powered by AI
 Rootly,https://rootly.com,S21,52.0,San Francisco,3,"['developer-tools', 'saas', 'b2b']",Modern on-call and incident management
-Cortex,https://cortex.io/,W20,50.0,San Francisco,3,"['developer-tools', 'saas', 'b2b']",Build reliable and innovative software at scale
-Freshpaint,https://freshpaint.io,S19,45.0,San Francisco,3,"['developer-tools', 'saas', 'b2b']","Customer data collection, safeguarding, & activation for healthcare"
 Middleware,https://www.middleware.io,W23,40.0,San Francisco,3,"['aiops', 'artificial-intelligence', 'saas']",AI-based full stack observability platform
 Deed,https://www.joindeed.com,S21,40.0,New York,3,"['saas', 'b2b', 'enterprise']",Making it easy for employees to donate and volunteer with good causes.
 SwiftSku,https://swiftsku.com,W21,35.0,San Francisco,3,"['fintech', 'saas', 'b2b', 'analytics', 'retail-tech']",Management and analytics software for convenience stores
-Anima App,https://www.animaapp.com,S18,35.0,New York,3,"['developer-tools', 'saas', 'b2b', 'design-tools']","Design to Code, Automated."
 Curacel,https://curacel.co,W22,30.0,"Lagos, Nigeria",3,"['fintech', 'saas', 'b2b', 'api', 'insurance']",Modern Insurance Infrastructure for Emerging Markets
 Waterplan,http://waterplan.com,S21,30.0,San Francisco,3,"['machine-learning', 'saas', 'b2b', 'climate', 'climatetech']",Water risk mitigation for industrial sites
-Okteto,https://okteto.com,W19,30.0,San Francisco,3,"['developer-tools', 'saas', 'b2b', 'open-source', 'kubernetes']",Cloud Development Environments with one click
-DraftWise,https://www.draftwise.com/,S20,28.0,New York,3,"['generative-ai', 'saas', 'b2b', 'legaltech']",Contract and negotiation AI built for lawyers
+Spark Studio,https://sparkstudio.co,S21,27.0,"Bengaluru, India",3,"['ai-enhanced-learning', 'education', 'generative-ai', 'elearning', 'ai']",The most magical personal Voice-Led AI English Learning Buddy for Kids
+Secoda,https://secoda.co,S21,27.0,"Toronto, Canada",3,"['developer-tools', 'saas', 'b2b', 'analytics', 'data-engineering']",The second brain for your data team
+autone,https://autone.io,S22,20.0,"London, United Kingdom",3,"['sustainable-fashion', 'consumer', 'supply-chain', 'retail']",Inventory management SaaS for Retail & Consumer brands
+Cinder,http://www.cinder.co,W22,20.0,"Washington, DC",3,"['saas', 'b2b', 'compliance', 'trust-&-safety', 'ai']",Operating system for trust and safety
+Pump.co,https://www.pump.co/,S22,18.0,San Francisco,3,"['finops', 'fintech', 'saas', 'b2b', 'ai']",The Costco for cloud is here 🔥🔥
+BotCity,https://botcity.dev,W22,18.0,San Francisco,3,"['developer-tools', 'robotic-process-automation', 'computer-vision', 'open-source', 'ai']",Open Source Python RPA + orchestration for tech teams.
+SnapTrade,https://snaptrade.com/,W22,17.0,"Fredericton, Canada",3,"['developer-tools', 'fintech', 'b2b', 'api']",Plaid for trading
+Versori,https://www.versori.com/,W23,16.0,"Manchester, United Kingdom",3,"['saas', 'b2b', 'api', 'no-code', 'data-engineering']",Add fully custom native connectors to your SaaS in hours
+Omnistrate,http://www.omnistrate.com,W23,15.0,"Redwood City, CA",3,"['developer-tools', 'saas', 'b2b', 'cloud-computing', 'infrastructure']",Transform any software to multi-cloud SaaS in minutes not years
+Infisical,https://infisical.com,W23,15.0,San Francisco,3,"['developer-tools', 'saas', 'b2b', 'security', 'open-source']",Open-source secrets manager for developers
+Oneleet,https://oneleet.com,S22,15.0,"Amsterdam, Netherlands",3,"['saas', 'b2b', 'compliance', 'security', 'ai']",Automated security and compliance without security theater
+Strobe,https://strobe.app,W22,15.0,"Victoria, Canada",3,"['saas', 'b2b', 'marketing', 'ai']",Creator marketing for software companies
+DigiBuild,https://digibuild.com,S21,15.0,"Miami, FL",3,"['artificial-intelligence', 'saas', 'construction', 'proptech', 'supply-chain']","We buy and track materials for big construction companies, using AI."
+Tavus,https://www.tavus.io,S21,15.0,San Francisco,3,"['generative-ai', 'saas', 'ai']",AI Generated Personalized Videos
+Waydev,https://waydev.co,W21,15.0,San Francisco,3,"['b2b', 'analytics', 'enterprise', 'data-engineering', 'ai-assistant']","Software Engineering Intelligence for DORA Metrics, DX & SPACE…"
+SigNoz,https://signoz.io,W21,15.0,"Bengaluru, India",3,"['developer-tools', 'saas', 'b2b', 'open-source']",Open source alternative to DataDog 
+Metal,http://www.metal.so,W23,14.0,,3,"['b2b', 'investing', 'enterprise-software', 'investments', 'fundraising']",Metal allows founders to be more targeted & intentional in fundraising
+RenderNet,https://rendernet.ai,S21,14.0,"Bengaluru, India",3,"['artificial-intelligence', 'generative-ai', 'ai']",RenderNet is a powerful AI based image generator.
+Floworks,https://floworks.ai/,W23,13.0,San Francisco,3,"['generative-ai', 'saas', 'sales', 'nlp']",An AI that talks with all your work apps
+Salvy,https://www.salvy.com.br,W24,12.0,"Curitiba, Brazil",3,"['saas', 'b2b', 'latin-america', 'telecommunications', 'ai']",Mobile carrier for businesses in Brazil
+SuperKalam,https://superkalam.com,W23,12.0,"Bengaluru, India",3,"['ai-enhanced-learning', 'artificial-intelligence', 'education', 'edtech', 'ai']",India's first personal mentor & discipline inducing learning ecosystem
