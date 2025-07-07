@@ -6,7 +6,9 @@
 *.pyc
 *ipynb
 geckodriver.log
+yc-env/
 
 # Output files
 output.jl
 start_urls.txt
+yc-env/
