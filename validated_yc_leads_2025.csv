@@ -1,0 +1,11 @@
+company_name,website,batch,team_size,fit_score,tech_stack,blog_url,customers_or_partners,location,priority_score
+Wordware,https://wordware.ai/,Summer 2024,15.0,3,"['Webflow', 'React']",https://wordware.ai/blog,[],San Francisco,8
+Distro,https://distro.app,Summer 2024,11.0,4,['Framer'],https://distro.app/blog,[],Palo Alto,6
+Pipeshift,https://pipeshift.com,Summer 2024,10.0,4,['Webflow'],https://pipeshift.com/blog,[],San Francisco,6
+Delineate,https://delineate.pro/,Winter 2025,20.0,2,"['Framer', 'React']",,[],Boston,6
+SureBright,https://surebright.com/,Summer 2024,20.0,2,"['Webflow', 'Shopify']",https://surebright.com/news,[],New York,6
+Central,https://centralhq.com,Summer 2024,13.0,2,['Framer'],https://centralhq.com/blog,[],San Francisco,6
+TaxGPT,https://www.taxgpt.com,Summer 2024,11.0,2,['Webflow'],https://www.taxgpt.com/blog,[],San Francisco,6
+Tandem,https://tandem.space/,Summer 2024,12.0,1,['React'],https://tandem.space/blog,[],San Francisco,5
+Emergent,https://emergent.sh,Summer 2024,12.0,3,['Framer'],,[],San Francisco,4
+Corgi,https://corgi.insure,Summer 2024,50.0,1,['React'],,[],San Francisco,3

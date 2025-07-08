@@ -168,7 +168,7 @@ def extract_customers_partners(website):
     except Exception as e:
         return []
 
-def validate_leads(csv_file='top_50_yc_seo_leads.csv', sample_size=None):
+def validate_leads(csv_file='top_50_yc_seo_leads_2025.csv', sample_size=None):
     """Validate leads from CSV file."""
     print("🔍 Lead Validator for YC SEO Leads")
     print("=" * 50)
@@ -280,8 +280,8 @@ def validate_leads(csv_file='top_50_yc_seo_leads.csv', sample_size=None):
         print(f"   Team: {row['team_size']} employees")
     
     # Export validated leads
-    validated_df.to_csv('validated_yc_leads.csv', index=False)
-    print(f"\n✅ Exported validated leads to 'validated_yc_leads.csv'")
+    validated_df.to_csv('validated_yc_leads_2025.csv', index=False)
+    print(f"\n✅ Exported validated leads to 'validated_yc_leads_2025.csv'")
     
     return validated_df
 

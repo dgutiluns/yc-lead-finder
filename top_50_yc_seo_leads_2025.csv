@@ -1,0 +1,37 @@
+company_name,website,batch,team_size,location,fit_score,tags_parsed,short_description
+Distro,https://distro.app,Summer 2024,11.0,Palo Alto,4,"['SAAS', 'B2B', 'MANUFACTURING', 'SUPPLY-CHAIN', 'AI', 'PALO ALTO']","Distro is the all-in-one AI-powered sales platform for counter staff and inside sales at industrial wholesale distributors (HVAC/R, plumbing, electrical, and more)."
+Pipeshift,https://pipeshift.com,Summer 2024,10.0,San Francisco,4,"['AIOPS', 'ARTIFICIAL-INTELLIGENCE', 'GENERATIVE-AI', 'INFRASTRUCTURE', 'AI', 'SAN FRANCISCO']","Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end."
+Wordware,https://wordware.ai/,Summer 2024,15.0,San Francisco,3,"['AIOPS', 'DEVELOPER-TOOLS', 'INFRASTRUCTURE', 'AI', 'SAN FRANCISCO']","Wordware is an IDE for building AI agents using natural language.
+
+It looks and feels like Notion, but lets you design, test, and deploy AI systems in real time - without writing code.
+
+Our mission is to bring structure and joy to human–AI collaboration.
+
+We’re building a generational company that empowers the next billion knowledge workers to create with AI - not by writing code, but by expressing intent.
+
+We’re backed by Spark Capital, Felicis, and Y Combinator ($30M seed round - the largest in YC history).
+
+We work hard, move fast, and don’t take ourselves too seriously. It’s intense, but it’s also fun - at Wordware, you’ll do the best work of your life alongside people you genuinely like."
+Emergent,https://emergent.sh,Summer 2024,12.0,San Francisco,3,"['DEVELOPER-TOOLS', 'GENERATIVE-AI', 'ENTERPRISE-SOFTWARE', 'SAN FRANCISCO']","At Emergent we are building autonomous coding agents that build real production ready apps and websites, from just a prompt."
+Delineate,https://delineate.pro/,Winter 2025,20.0,Boston,2,"['SAAS', 'BIOTECH', 'AI', 'BOSTON']","Delineate is building AI agents to design better clinical trials faster.
+
+This is a $10B dollar market, where saving even 1 day along the process is equal to $1-5M in revenue potential.
+
+We process existing clinical trial research into specialized datasets saving scientists months of effort.
+
+Delineate is working with two of the largest pharmaceutical companies. With one of our customers, we are helping them get to the next phase of trials faster by creating the largest dataset on a drug class ever constructed."
+SureBright,https://surebright.com/,Summer 2024,20.0,New York,2,"['FINTECH', 'E-COMMERCE', 'INSURANCE', 'RETAIL', 'AI', 'NEW YORK']","SureBright lets e-commerce merchants embed ""Apple Care” like product warranties into their checkout flows in less than 10 minutes. Our AI-powered warranty platform generates incremental revenue and boosts customer loyalty at zero cost to the merchant.
+
+Sanket led engineering at PolicyBazar, an insurance tech company that IPOed and is valued at over $8B. Manish worked at Amazon and has built $100M ARR products, handling over 180B requests per day.
+
+Until now, finding the right policy for any product and pricing it at the right price wasn’t possible at scale. We automated this process using LLM and have unlocked a $50B+ opportunity. Each month, over 5 million consumers view SureBright warranty offers."
+Central,https://centralhq.com,Summer 2024,13.0,San Francisco,2,"['ARTIFICIAL-INTELLIGENCE', 'FINTECH', 'B2B', 'HR-TECH', 'PAYROLL', 'SAN FRANCISCO']","Central is the only payroll & benefits platform that handles all the government bullshit automatically. While traditional payroll providers force you to manage every state registration & HR task, Central actually does it all - saving you 60+ hours and thousands in fines."
+TaxGPT,https://www.taxgpt.com,Summer 2024,11.0,San Francisco,2,"['FINTECH', 'B2B', 'AI', 'SAN FRANCISCO']","TaxGPT AI co-pilot for accountants and tax professionals increases tax firm's productivity and profitability by 10x by automating tax research, client communication, onboarding flows and secure document collection."
+Corgi,https://corgi.insure,Summer 2024,50.0,San Francisco,1,"['FINTECH', 'INSURANCE', 'AI', 'SAN FRANCISCO']",Corgi is building the first full stack AI insurance carrier. Insurance is 12% of US GDP. We’re taking it all.
+Tandem,https://tandem.space/,Summer 2024,12.0,San Francisco,1,"['MARKETPLACE', 'REAL-ESTATE', 'B2B', 'SAN FRANCISCO']","The pandemic reduced office use nationwide by 50%, and tenants have been left to deal with highly inflexible, long term lease agreements that don’t fit today’s office use patterns.
+
+The traditional brokerage model works great for big spaces and long terms. But when you want to talk smaller units, short term lengths, shared and common areas, you’re out of luck.
+
+Tandem is an AI-enabled office leasing platform. We’re using technology to unlock flexible, month-to-month agreements in quality, ready-to-go spaces. Our AI co-pilot enables a white-glove-quality B2B office search experience, with a fraction of the human labor typically required.
+
+Today we’re serving two primary markets — NY & SF, with hundreds of active Hosts in each. We’ve helped match more than 100 companies and have seen double-digit month-over-month growth."
